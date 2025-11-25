@@ -31,6 +31,7 @@ export default function RootLayout({
       <body className={`font-sans ${inter.variable} ${jetbrainsMono.variable}`}>
         <Suspense>
           {children}
+          
           <Analytics />
         </Suspense>
       </body>
