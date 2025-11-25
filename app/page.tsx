@@ -7,46 +7,30 @@ import Image from "next/image"
 const products = [
   {
     id: 1,
-    name: "Lime Asymmetric Set",
+    name: "Styling Details",
     image: "/IMG_1857.JPG",
     price: "Coming Soon",
   },
   {
     id: 2,
-    name: "Classic White Shirt",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4242-gPmtUPUaSV49uMCnfbtadiU3gRpFzh.jpeg",
-    price: "Coming Soon",
-  },
-  {
-    id: 3,
-    name: "Camel Wrap Dress",
+    name: "Styling Details",
     image: "/IMG_1845.JPG",
     price: "Coming Soon",
   },
   {
-    id: 4,
-    name: "White Wrap Ensemble",
+    id: 3,
+    name: "Styling Details",
     image: "/IMG_1821.JPG",
     price: "Coming Soon",
   },
+  
   {
-    id: 5,
-    name: "Chocolate Co-ord Set",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4246-hew4DjJLVhTaCx6lGu8Dkn4LphFjC3.jpeg",
-    price: "Coming Soon",
-  },
-  {
-    id: 6,
+    id: 4,
     name: "Styling Details",
     image: "/IMG_1832.JPG",
     price: "Coming Soon",
   },
-  {
-    id: 7,
-    name: "Teal Statement Dress",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4243-uNTpd0kyDVOfAfSvYLQC3hsZRcFT8a.jpeg",
-    price: "Coming Soon",
-  },
+
 ]
 
 export default function ComingSoon() {
